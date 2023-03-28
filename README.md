@@ -23,7 +23,7 @@ I am Abdul Rahman Shaheen , I am a hardworking person who is passionate about pr
 
 4. What is the **GitHub** and How use it.
 
-   ![picture  Git hub](https://www.google.com/url?sa=i&url=https%3A%2F%2Flthub.ubc.ca%2Fguides%2Fgithub-instructor-guide%2F&psig=AOvVaw2r00h-njpNAX4_Vn18YBN7&ust=1680078819242000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiusbub_v0CFQAAAAAdAAAAABAE)
+   ![picture  Git hub](https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png)
 
 
 5. How link between Github and VS code :
