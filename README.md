@@ -1,4 +1,3 @@
-# my-notes
 
 ## Introduction
 I am Abdul Rahman Shaheen , I am a hardworking person who is passionate about programming and is always looking for an opportunity to prove myself. I don't care how many challenges I will face as much as I will benefit from the experiences, I am always excited to learn something new , My dream is to become a successful programmer.
